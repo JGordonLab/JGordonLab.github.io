@@ -1,0 +1,15 @@
+.grid-container {
+  display: grid;
+  place-items: center; /* Centers both images */
+}
+
+.grid-img {
+  grid-area: 1 / 1;
+}
+
+/* Hide dark image by default */
+.only-dark { display: none; }
+
+/* Switch visibility based on data-theme */
+[data-theme="dark"] .only-light { display: none; }
+[data-theme="dark"] .only-dark { display: block; }
