@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: center; margin-bottom: 2rem;">
-  <picture>
+<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 2rem;">
+  <figure>
     <img src="/images/Gordon_Logo_Light.png" class="grid-img only-light" alt="Gordon Lab Logo" style="width:280px; height:auto;">
-  </picture>
+  </figure>
 </div>
 
 <p style="margin:0; text-align: justify;">The Gordon Lab focuses on developing and translating new metabolic imaging techniques that provide a unique window into cellular metabolism in cancer, neurodegeneration, and other diseases. Our projects range from preclinical studies in models of Alzheimer’s disease to clinical translation of hyperpolarized carbon‑13 MRI for assessing treatment response in patients with pancreatic cancer.</p>

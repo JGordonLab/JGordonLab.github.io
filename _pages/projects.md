@@ -73,10 +73,10 @@ Key Findings to Date:
 <li>Metabolic Biomarkers: In a study of seven PDA patients, all exhibited elevated pre-treatment primary tumor lactate/pyruvate ratios.</li>
 
 
-<li>Predictive Response: Five patients who achieved a partial response (per RECIST) showed a significant post-treatment decrease (~25%) in lactate/pyruvate ratios.</li>
+<li>Partial Response: Five patients who achieved a partial response (per RECIST) showed a significant post-treatment decrease (~25%) in lactate/pyruvate ratios.</li>
 
 
-<li>Stability: Patients with stable disease showed minimal metabolic change (<5%), while standard diffusion-weighted <sup>1</sup>H MRI (ADC) showed no significant changes post-treatment.</li>
+<li>Stable Disease: Patients with stable disease showed minimal metabolic change (<5%), while standard diffusion-weighted <sup>1</sup>H MRI (ADC) showed no significant changes post-treatment.</li>
 </ul></p>
     </div>
   </div>
